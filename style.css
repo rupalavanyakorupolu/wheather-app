@@ -62,7 +62,7 @@ body {
   outline: none;
   padding: 0 1rem;
   font-size: 1.6rem;
-  color:var(--dark-color);
+  color:var(white);
 }
 .search_box input::placeholder {
   color: var(--dark-color);
